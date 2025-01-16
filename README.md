@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Rubson Lima, a Full Stack Developer at Artificial Intelligence Project UFRPE/UFPA. I have a strong passion for Educational Technology.
+Hello! I'm Rubson Lima, a Full Stack Developer. I have a strong passion for Educational Technology.
 
 - 🌱 Currently diving into the world of Machine Learning.
 - 💼 Working as a Full Stack Developer.
